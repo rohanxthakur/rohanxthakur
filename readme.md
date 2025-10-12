@@ -5,10 +5,10 @@
 <h1 align="center"> Hey!! I'm Rohan Thakur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ### About Me
-- 📖 I'm currently Studying Computer Science at University School of Inforation, Communication and Technology
-- 🌱 I’m currently Explporing UI/UX
-- 💬 Ask me about Cybersecurity, ethical hacking and Formula-1
-- 📫 How to reach me: kartikkc95@gmail.com
+- 📖 I'm Electronics and Communication Graduate from Delhi Technological University (Formerly DCE).
+- 🌱 I’m Currently learning about Machine Learning and Data Science.
+- 💬 Ask me about Data Analytics, SQL, PowerBI, and Microsoft Execl
+- 📫 Reach me out at : rohanthakur2002@gmail.com
 <hr>
 
 <!---Intro End--->

@@ -69,9 +69,6 @@
 
 ![Snake](https://user-images.githubusercontent.com/96336775/182021699-2259529a-dcbd-4efb-b9cc-10dc78f3fa24.svg)
 
-
- ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
-
 <!-----------Dino game and Snake end-------->
 
 <!-------------Connect with me-------------->

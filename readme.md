@@ -8,7 +8,7 @@
 - 📖 I'm Electronics and Communication Graduate from Delhi Technological University (Formerly DCE).
 - 🌱 I’m Currently learning about Machine Learning and Data Science.
 - 💬 Ask me about Data Analytics, SQL, PowerBI, and Microsoft Execl
-- 📫 Reach me out at : rohanthakur2002@gmail.com
+- 📫 Reach me out at : socialrohan@gmail.com
 <hr>
 
 <!---Intro End--->
